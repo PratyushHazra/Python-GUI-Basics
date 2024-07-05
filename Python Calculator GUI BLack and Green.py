@@ -188,8 +188,6 @@ def screen(b):
         calc_screen=Label(root,text=content,bg='lightgreen',fg='black',font=('Times',22))
         calc_screen.place(relx=0.9,rely=0.06,anchor=NE)
     else:
-        #calc_screen=Label(root,text='New phone whu dis?',bg='grey',fg='black',font=('Times',22))
-        #calc_screen.place(relx=0.9,rely=0.06,anchor=NE)
         pass
     
 #calc_screen=Label(root,text='1',font=('Times',22))
